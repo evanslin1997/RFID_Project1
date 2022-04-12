@@ -1,0 +1,9 @@
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.AssemblyReference.cache
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.cache
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.CoreCompileInputs.cache
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\Sue\Documents\RFID\hw1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
